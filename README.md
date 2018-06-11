@@ -9,8 +9,8 @@ que se realizarán de forma automática al ejecutar el script):
 
 1. Abrir un archivo de imagen (NO RAW) con Gimp.
 2. Hacer los ajustes generales de contraste y puntos blanco y negro con las herramientas Niveles o Curvas.
-3. Con la herramienta "selección libre" (F). Selecciono la zona que quiero ajustar con ayuda de tableta 
-    gráfica o ratón.
+3. Con la herramienta "selección libre" (F). 
+   * Selecciono la zona que quiero ajustar con ayuda de tableta gráfica o ratón:
         1. Si necesitas rectificar la selección. Máscara rápida Sift+Q y pintas en negro o blanco para
               añadir o quitar selección.
         1. Quitar Máscara rápida. Sift+Q
@@ -22,6 +22,7 @@ con las herramientas Niveles o Curvas.
 5. (*) Añadir máscara de capa a partir de la selección.
 
 6. (*) Cambiar el modo de fusión de la capa dependiendo del ajuste que queremos hacer:
+
         1. Modo de fusión NORMAL si es una foto en escala de grises.
         1. Modo de fusión VALOR si se trata de una foto RGB.
 
