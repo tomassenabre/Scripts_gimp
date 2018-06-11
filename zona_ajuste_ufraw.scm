@@ -183,7 +183,7 @@
 
 ; ------------------------------------------------------------------------------------------------
 ; Inicia la herramienta de desenfoque gaussiano. El método de desenfoque es IIR que es preferible 
-; cuando se usan radios grandes. El radio de desenfoque por defecto es 800 pero podemos cambiarlo 
+; cuando se usan radios grandes. El radio de desenfoque por defecto es 250 pero podemos cambiarlo 
 ; en la siguiente línea: 
      (plug-in-gauss-iir RUN-NONINTERACTIVE aimg layer-mask  250 TRUE TRUE)
 
